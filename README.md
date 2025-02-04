@@ -1,2 +1,2 @@
-# Note-App
-A basic file system for note taking app using .txt.
+# To-Do App
+A basic file system for to-do app using JSON.
